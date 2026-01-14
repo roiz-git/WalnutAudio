@@ -1,13 +1,13 @@
-# Maple Audio
+# Walnut Audio
 MPD Client for iOS
 
 Pure music control for MPD
 
-Maple Audio is a streamlined MPD (Music Player Daemon) client designed for music lovers who want efficient control without visual distractions. Text-based, fast, and focused.
+Walnut Audio is a streamlined MPD (Music Player Daemon) client designed for music lovers who want efficient control without visual distractions. Text-based, fast, and focused.
 
 HOW IT WORKS
 
-Maple Audio is built around two primary listening modes:
+Walnut Audio is built around two primary listening modes:
 
 ALL MUSIC MODE
 - Load your entire library with shuffle on
@@ -49,8 +49,8 @@ FEATURES
 - Lock screen & Control Center integration
 - Siri Shortcuts for profile switching
 
-COMPANION TO Maple Audio for MacOS
+COMPANION TO Walnut Audio for MacOS
 
-Part of the MpdForApple family. Maple Audio shares its core with Maple Audio for MacOS, our menu bar client for Mac.
+Part of the MpdForApple family. Walnut Audio shares its core with Walnut Audio for MacOS, our menu bar client for Mac.
 
 iOS adds: HTTP streaming, Bonjour discovery, phone call handling, Siri Shortcuts, and touch-optimized controls.
